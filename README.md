@@ -10,4 +10,6 @@
 [高科大校網](http://www.nkust.edu.tw)
 
 ---
-
+| Left-Aligned | Center Aligned | Right Aligned |
+| :------------ |:------------:| -----:|
+| color         | red         | hi     |
