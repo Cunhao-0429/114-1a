@@ -10,3 +10,11 @@
 
 ## 最愛的網頁: https://newjeansarchive.vercel.app/
 
+![IVE](https://github.com/Cunhao-0429/114-1a/blob/main/IVE.jpg)
+
+我唯一知道的事情就是我一無所知。
+
+| 姓名 | 教育背景 | 工作經驗 |
+| :------------ |:------------:| -----:|
+| 廖村浩         | 高科大資管系         | 大全聯暑期工讀生     |
+
